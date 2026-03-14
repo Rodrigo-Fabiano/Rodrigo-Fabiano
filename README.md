@@ -6,9 +6,11 @@
 
 - Pretendo aliar os conhecimentos na área técnica no tratamento de dados ambientais e paralelamente no aprendizado de aplicações mobile e páginas de internet.
 
- ## 📫 Meus contatos: e-mail: fprodrigo@gmail.com / Tel (11)95347-0941
+ ## 📫 Meus contatos: Tel (11)95347-0941
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
 badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-fabiano-pereira-232381393/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-
+badge&logo=gmail&logoColor=white)](mailto:fprodrigo@gmail.com)
 
 ## Tecnologias que estudo atualmente
 <div style="display: inline_block"><br>
