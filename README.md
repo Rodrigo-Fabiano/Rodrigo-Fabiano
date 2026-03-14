@@ -4,7 +4,7 @@
 - 💻 Cursando Desenvolvimento de Sistemas pela ETEC 
 - 🌱 Graduando em Gestão Ambiental pela Universidade de São Paulo
 
-- Pretendo aliar os conhecimentos da área técnica no tratamento de dados ambientais e paralelamente no aprendizado de aplicações mobile e páginas de internet.
+- Pretendo aliar os conhecimentos da área técnica no tratamento de dados ambientais, juntamente com os conhecimentos adquiridos no curso de D.S. aprender a desenvolver aplicações mobile e confecção de sites.
 
  ## 📫 Meus contatos: 
  - Tel (11)95347-0941
