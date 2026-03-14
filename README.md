@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bem Vindos, meu nome é Rodrigo. 👋 Vou falar um pouco a meu respeito.
 
-<!--
-**Rodrigo-Fabiano/Rodrigo-Fabiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+- 🔭 Cursando Desenvolvimento de Sistemas pela ETEC 
+- 🌱 Graduando em Gestão Ambiental pela Universidade de São Paulo
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pretendo aliar os conhecimentos na área técnica no tratamento de dados ambientais e paralelamente desenvolvimento de aplicações mobile.
+- 🤔 
+- 💬 
+- 📫 Meus contatos: e-mail: fprodrigo@gmail.com / Tel (11)95347-0941
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
+badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-fabiano-pereira-232381393/)
+- 😄 
+- ⚡ 
+## Tecnologias que estudo atualmente
+<div style="display: inline_block"><br>
+<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
