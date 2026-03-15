@@ -17,7 +17,7 @@
  <a href="https://wa.me/5511953470941" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" alt="WhatsApp Icon">
 </a>
- <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rodrigo-fabiano-pereira-232381393/" target="_blank">
+ <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rodrigo-fabiano-pereira-232381393/"target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
  
