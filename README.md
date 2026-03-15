@@ -10,10 +10,18 @@
 
 - Pretendo aliar os conhecimentos da área técnica no tratamento de dados ambientais, juntamente com os conhecimentos adquiridos no curso de D.S. aprender a desenvolver aplicações mobile e confecção de sites.
 
- ## 📫 Meus contatos: 
- - Tel (11)95347-0941
+ ### 📫 Meus contatos: 
+<a href="mailto:fprodrigo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail fprodrigo@gmail.com">
+</a>
+ <a href="https://wa.me/5511953470941" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" alt="WhatsApp Icon">
+</a>
+ <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rodrigo-fabiano-pereira-232381393/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
  
- O que estou aprendendo no momento
+ ### O que estou aprendendo no momento
  
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
