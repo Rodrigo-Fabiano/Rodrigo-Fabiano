@@ -22,9 +22,7 @@
 </a>
  
  ### O que estou aprendendo no momento
- 
-
-<div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="CSS" height="40" width="40"
